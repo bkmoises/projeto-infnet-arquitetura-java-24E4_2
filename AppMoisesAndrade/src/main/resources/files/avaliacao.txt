@@ -1,0 +1,13 @@
+4.5;Adorei, enredo envolvente!;3;8
+3.0;Bem mediano, final previsível.;6;14
+5.0;Incrível! Atuações impecáveis e ótima direção!;11;5
+4.0;Muito bom, mas o ritmo poderia ser melhor.;2;12
+5.0;Excelente, superou minhas expectativas!;7;3
+3.5;Interessante, mas algumas partes foram maçantes.;4;9
+4.8;Adorei o filme, os efeitos especiais são impressionantes!;11;6
+2.5;Não gostei, achei a história bastante fraca.;5;15
+4.2;Bom filme, mas o desenvolvimento dos personagens foi falho.;9;7
+3.8;Entretenimento razoável, poderia ser mais original.;10;11
+5.0;Perfeito em todos os aspectos, recomendo muito!;11;2
+3.2;A trama é boa, mas o ritmo foi muito lento.;12;13
+4.7;Muito envolvente, ótimo trabalho de direção e elenco!;13;4

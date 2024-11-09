@@ -1,0 +1,13 @@
+Stranger Things;Ficção Científica;2016;51;4;9;10
+Breaking Bad;Crime;2008;47;5;16;9
+Game of Thrones;Drama;2011;58;4;10;10
+The Crown;Drama;2016;40;4;6;8
+Black Mirror;Ficção Científica;2011;22;5;8;9
+The Office;Comédia;2005;201;9;11;8
+Westworld;Ficção Científica;2016;30;5;7;9
+Narcos;Crime;2015;30;5;12;8
+Mindhunter;Crime;2017;19;5;4;7
+The Mandalorian;Aventura;2019;24;5;9;10
+Ozark;Crime;2017;40;4;7;9
+Fargo;Crime;2014;40;4;4;8
+Money Heist;Ação;2017;48;5;8;10
